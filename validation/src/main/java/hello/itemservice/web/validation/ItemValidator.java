@@ -37,7 +37,5 @@ public class ItemValidator implements Validator {
                 errors.reject("totalPriceMin", new Object[]{10000, resultPrice}, null);
             }
         }
-
-
     }
 }
