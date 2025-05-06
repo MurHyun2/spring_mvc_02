@@ -9,7 +9,6 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-스타트업 면접 언제보는지 확인
 @Slf4j
 @RestController
 public class ApiExceptionControllerV2 {
